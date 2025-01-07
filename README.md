@@ -70,3 +70,8 @@ https://github.com/blackmatrix7/ios_rule_script/tree/master/rewrite
 
 [@BaileyZyp](https://github.com/BaileyZyp)   [@Mazeorz](https://github.com/Mazeorz)   [@LuzMasonj](https://github.com/LuzMasonj)  [@chouchoui](https://github.com/chouchoui)  [@ypannnn](https://github.com/ypannnn)  [@echizenryoma](https://github.com/echizenryoma)  [@zirawell](https://github.com/zirawell)  [@urzz](https://github.com/urzz)  [@ASD-max](https://github.com/ASD-max)
 
+This message is used to verify that this feed
+(feedId: 99267589700812800)
+belongs to me (userId: 96179888449242112). Join me in enjoying the next
+generation information browser
+https://follow.is.
